@@ -121,23 +121,6 @@ sudo crontab -e
 
 ---
 
-## 📸 Capturas Relevantes
-
-Agrega aquí tus capturas reales con nombres descriptivos, por ejemplo:
-
-- `captura_mysql_dbeaver.png` – Conexión MySQL desde DBeaver
-- `wordpress_apache.png` – Página de WordPress funcionando
-- `estado_servicios.png` – Servicios activos con `systemctl`
-- `cron_rsync_log.png` – Resultados del backup diario
-
-```markdown
-![MySQL en DBeaver](./capturas/captura_mysql_dbeaver.png)
-![Servidor Apache2 + WordPress](./capturas/wordpress_apache.png)
-![Servicios activos](./capturas/estado_servicios.png)
-```
-
----
-
 ## 👥 Integrantes del Equipo
 
 | Nombre | Rol |
