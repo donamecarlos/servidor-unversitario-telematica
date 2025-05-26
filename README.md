@@ -129,7 +129,7 @@ sudo crontab -e
 | **Jasmir Alberto** | Responsable de Base de Datos y Conexión desde DBeaver |
 | **Alberto Pérez** | Configuración de Red, DHCP y DNS |
 | **Denis Pavón** | Configuración del Servidor Web (Apache + WordPress) |
-| **Kevin Molina** | Seguridad, SSH, FTP y documentación técnica final |
+| **Kevin Molina** | no trabajo |
 
 ---
 
